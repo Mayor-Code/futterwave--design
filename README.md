@@ -1,3 +1,3 @@
 # flutterwave--design
 
-Web layput of flutterwave.com
+Web layout of flutterwave.com
