@@ -282,7 +282,7 @@ export default {
         </div>
       </div>
       <div class="mt-32">
-        <p class="text-7xl leading-relaxed">
+        <p class="text-4xl sm:text-5xl desktop:text-7xl leading-relaxed">
           Let's play to our strengths, shall we? You focus on bringing your
           amazing ideas to life and we focus on providing all the
           <span class="text-[#35a162]">commerce tools</span> you need.
@@ -988,17 +988,6 @@ export default {
 
   .blinking-dot:nth-child(3) {
     left: 140%;
-  }
-
-  .blinking-dot:nth-child(4) {
-    left: 117%;
-    top: 18%;
-  }
-
-  .blinking-dot:nth-child(5) {
-    --size: 7px;
-    left: 85%;
-    top: 60%;
   }
 
   .blinking-dot:nth-child(6) {

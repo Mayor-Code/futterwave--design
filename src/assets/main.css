@@ -6,5 +6,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  transition: 0.5s all ease;
+  transition: 0.2s all ease;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
 }
